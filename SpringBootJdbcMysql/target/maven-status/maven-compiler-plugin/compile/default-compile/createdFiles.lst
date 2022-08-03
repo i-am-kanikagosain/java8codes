@@ -1,0 +1,5 @@
+com\example\SpringBootJdbcMysql\model\Book.class
+com\example\SpringBootJdbcMysql\SpringBootJdbcMysqlApplication.class
+com\example\SpringBootJdbcMysql\controller\BookController.class
+com\example\SpringBootJdbcMysql\repository\JdbcBookRepository.class
+com\example\SpringBootJdbcMysql\repository\BookRepository.class
